@@ -11,6 +11,18 @@ This Workshop is designed and presented by:
 **Jerónimo López Gómez** | *Grupo de Instrumentación Cientifica y Microelectrónica*
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jeronimo-lopez-714bba228) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/jerolg)
 
+<br>
+
 ---
+
+<p align="center">
+  <a href="ENLACE_A_LA_WEB_O_REDES_DEL_GRUPO">
+    <img src="imgs/logo_gicm.png" width="200" alt="Logo del Grupo">
+  </a><br>
+  <b>Grupo de Instrumentación Cientifica y Microelectrónica | Universidad de Antioquia</b>
+</p>
+
+---
+
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. (Feel free to use this material, but please give us appropriate credit.)

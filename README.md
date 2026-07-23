@@ -1,15 +1,21 @@
-# hls4ml_workshop
+<table width="100%">
+<tr>
+<td align="left" valign="middle">
 
-<p align="center">
-  <img src="imgs/pycon_logo.png" width="180" alt="PyCon Colombia 2026">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="imgs/gicm_logo.png" width="180" alt="Grupo de Instrumentación Científica y Microelectrónica">
-</p>
+<b>Workshop PyCon Colombia 2026</b><br>
+<i>hls4ml: De modelos de Python a aceleración hardware</i>
 
-<p align="center">
-  <b>Workshop PyCon Colombia 2026</b><br>
-  <i>hls4ml: De modelos de Python a aceleración hardware</i>
-</p>
+</td>
+
+<td align="right" valign="middle">
+
+<img src="imgs/pycon_logo.png" width="120">
+&nbsp;&nbsp;
+<img src="imgs/gicm_logo.png" width="120">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -19,15 +25,20 @@ Durante el taller se aborda la optimización de redes neuronales mediante técni
 
 ---
 
-## 👨‍🏫 Speakers
+## Speakers
 
 Este workshop es diseñado y presentado por:
 
 **Natalia Echeverri Durán** | *Grupo de Instrumentación Científica y Microelectrónica*
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Contacto-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/natalia-echeverri-duran-5297753ba) [![GitLab](https://img.shields.io/badge/GitLab-Seguir-black?style=flat&logo=gitlab)](https://gitlab.com/natalia.echeverrid)
+
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Contacto-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/natalia-echeverri-duran-5297753ba) 
+[![GitLab](https://img.shields.io/badge/GitLab-Seguir-black?style=flat&logo=gitlab)](https://gitlab.com/natalia.echeverrid)
+
 
 **Jerónimo López Gómez** | *Grupo de Instrumentación Científica y Microelectrónica*
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Contacto-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jeronimo-lopez-714bba228) [![GitHub](https://img.shields.io/badge/GitHub-Seguir-black?style=flat&logo=github)](https://github.com/jerolg)
+
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Contacto-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jeronimo-lopez-714bba228) 
+[![GitHub](https://img.shields.io/badge/GitHub-Seguir-black?style=flat&logo=github)](https://github.com/jerolg)
 
 <br>
 

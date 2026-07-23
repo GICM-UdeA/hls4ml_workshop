@@ -1,15 +1,33 @@
 # hls4ml_workshop
-Workshop materials for deploying Machine Learning models on FPGAs using hls4ml. Learn how to optimize neural networks through pruning and quantization for ultra-low latency hardware inference.
+
+<p align="center">
+  <img src="imgs/pycon_logo.png" width="180" alt="PyCon Colombia 2026">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="imgs/gicm_logo.png" width="180" alt="Grupo de Instrumentación Científica y Microelectrónica">
+</p>
+
+<p align="center">
+  <b>Workshop PyCon Colombia 2026</b><br>
+  <i>hls4ml: De modelos de Python a aceleración hardware</i>
+</p>
+
+---
+
+Material del workshop para la implementación de modelos de Machine Learning en FPGA utilizando **hls4ml**.
+
+Durante el taller se aborda la optimización de redes neuronales mediante técnicas de **poda (pruning)** y **cuantización (quantization)** para lograr inferencia hardware de baja latencia.
+
+---
 
 ## 👨‍🏫 Speakers
 
-This Workshop is designed and presented by:
+Este workshop es diseñado y presentado por:
 
-**Natalia Echeverri Durán** | *Grupo de Instrumentación Cientifica y Microelectrónica*
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/natalia-echeverri-duran-5297753ba) [![GitLab](https://img.shields.io/badge/GitLab-Follow-black?style=flat&logo=gitlab)](https://gitlab.com/natalia.echeverrid)
+**Natalia Echeverri Durán** | *Grupo de Instrumentación Científica y Microelectrónica*
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Contacto-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/natalia-echeverri-duran-5297753ba) [![GitLab](https://img.shields.io/badge/GitLab-Seguir-black?style=flat&logo=gitlab)](https://gitlab.com/natalia.echeverrid)
 
-**Jerónimo López Gómez** | *Grupo de Instrumentación Cientifica y Microelectrónica*
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jeronimo-lopez-714bba228) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/jerolg)
+**Jerónimo López Gómez** | *Grupo de Instrumentación Científica y Microelectrónica*
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Contacto-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jeronimo-lopez-714bba228) [![GitHub](https://img.shields.io/badge/GitHub-Seguir-black?style=flat&logo=github)](https://github.com/jerolg)
 
 <br>
 
@@ -17,12 +35,15 @@ This Workshop is designed and presented by:
 
 <p align="center">
   <a href="ENLACE_A_LA_WEB_O_REDES_DEL_GRUPO">
-    <img src="imgs/logo_gicm.png" width="200" alt="Logo del Grupo">
+    <img src="imgs/gicm_logo.png" width="200" alt="Logo GICM">
   </a><br>
-  <b>Grupo de Instrumentación Cientifica y Microelectrónica | Universidad de Antioquia</b>
+  <b>Grupo de Instrumentación Científica y Microelectrónica | Universidad de Antioquia</b>
 </p>
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. (Feel free to use this material, but please give us appropriate credit.)
+## 📜 Licencia
+
+Este proyecto está licenciado bajo la licencia MIT. Consulte el archivo [LICENSE](LICENSE) para más información.
+
+El material puede ser utilizado y adaptado, siempre que se otorgue el crédito correspondiente a sus autores.

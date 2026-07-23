@@ -23,6 +23,10 @@ Material del workshop para la implementación de modelos de Machine Learning en 
 
 Durante el taller se aborda la optimización de redes neuronales mediante técnicas de **poda (pruning)** y **cuantización (quantization)** para lograr inferencia hardware de baja latencia.
 
+## Documentación del Workshop
+
+Consulta la documentación completa, guías y material complementario en la [Wiki del proyecto](https://github.com/GICM-UdeA/hls4ml_workshop/wiki).
+
 ---
 
 ## Speakers
